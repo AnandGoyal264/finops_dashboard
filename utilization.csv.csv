@@ -1,0 +1,13 @@
+resource_id,cpu_usage,memory_usage,is_running,hours_idle,owner_tag,env_tag
+i-001,55.2,72.5,TRUE,2,teamA,prod
+i-002,3.1,10.8,TRUE,55,teamB,dev
+i-003,8.9,15.1,TRUE,30,teamC,test
+i-004,45,50.3,TRUE,1,teamA,dev
+i-005,2.5,5.2,TRUE,120,teamD,prod
+i-006,35.8,42.1,TRUE,5,teamB,qa
+i-007,65.1,78.9,TRUE,0,teamC,prod
+i-008,9.5,20,TRUE,30,teamE,dev
+i-009,8,12.5,TRUE,10,teamF,
+i-010,5.5,15.9,FALSE,168,teamG,prod
+i-011,4.2,18,TRUE,28,,test
+i-012,58,65,TRUE,1,teamH,dev

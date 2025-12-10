@@ -1,0 +1,13 @@
+resource_id,instance_type,cpu,memory,current_cost
+i-001,m5.large,2,8,0.096
+i-002,t3.small,2,2,0.02
+i-003,t3.small,2,2,0.02
+i-004,m5.large,2,8,0.096
+i-005,m5.large,2,8,0.096
+i-006,t3.micro,2,1,0.01
+i-007,m5.xlarge,4,16,0.192
+i-008,m5.2xlarge,8,32,0.384
+i-009,m5.2xlarge,8,32,0.384
+i-010,t3.micro,2,1,0.01
+i-011,m5.xlarge,4,16,0.192
+i-012,m5.large,2,8,0.096
