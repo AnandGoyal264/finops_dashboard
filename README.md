@@ -34,7 +34,7 @@ beautiful **Streamlit dashboard**.
 - Highlights abnormal cost days  
 - Generates human-readable spike explanations  
 
-### 🔮 2. Cost Forecasting (Holt-Winters)
+### 🔮 2. Cost Forecasting (Prophet)
 - 30-day cost forecasting  
 - Considers trend + seasonality  
 
@@ -189,4 +189,5 @@ _Add your screenshot here_
 GitHub: **https://github.com/AnandGoyal264**  
 
 ⭐ If this project helped you, please star the repo!
+
 
