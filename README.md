@@ -70,7 +70,7 @@ A[📁 CSV Cost + Resource Data] --> B[📦 Databricks Volumes]
 B --> C[🧹 Databricks Notebook<br>ETL + ML Processing]
 
 C -->|IQR| D1[⚠️ Spike Detection Output]
-C -->|Holt-Winters| D2[📈 Forecast Output]
+C -->|Prophet| D2[📈 Forecast Output]
 C -->|Usage Metrics| D3[💤 Idle Resource Output]
 C -->|Rules Engine| D4[🧠 Optimization Output]
 
@@ -189,5 +189,6 @@ _Add your screenshot here_
 GitHub: **https://github.com/AnandGoyal264**  
 
 ⭐ If this project helped you, please star the repo!
+
 
 
